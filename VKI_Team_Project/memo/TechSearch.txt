@@ -1,0 +1,35 @@
+[키보드 악기 프로그램]
+
+- 단축키로 피아노를 칠수 있는 가상 피아노 프로그램
+- 악기 : 피아노, 드럼
+
+< 기능 리스트 >
+
+1. [메인UI]
+	- 악기 선택 버튼은 텍스트가 아닌 이미지 넣기
+	- 1번은 피아노만 , 2번은 드럼만, 3번[TAP]은 피아노 ,드럼 ( 방향키로 피아노와 드럼을 전환가능)
+
+2. [메뉴바] 
+	- File save/load/delete
+	- Setting [Subwindow] { 단축키 설정기능 }
+
+3. [악기 화면]
+	- 소리 넣기
+	- 악기(드럼, 피아노)에 대한 이벤트( 건반의 색깔이 연해지다가 다시 돌아온다 )
+	
+4. [재생부분]
+	- 쓰레드 재생
+
+
+<자바 키보드 이벤트 주소>
+
+http://blog.naver.com/PostView.nhn?blogId=goqkfkrl0108&logNo=220867705424 -> 키보드 이벤트
+https://sergeswin.com/669 -> 악기 선택 버튼 이미지
+https://javacpro.tistory.com/27 -> 파일삭제
+https://coding-factory.tistory.com/279 -> 자바 쓰레드
+
+http://blog.naver.com/PostView.nhn?blogId=hooakw&logNo=140046175550 - 자바 마이크 녹음
+https://note.espriter.net/1070 - wmv 재생
+
+https://online-audio-converter.com/ko/ - wav 변환
+https://www.multiplayerpiano.com/Room872731868003 - 피아노 음악
